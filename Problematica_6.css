@@ -1,0 +1,77 @@
+body{
+    background-color:rgb(238, 237, 237) ;
+    margin-left: 443px;
+    margin-right: 800px;
+    margin-bottom: 150px;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+    }
+
+h2 {
+        font-family: 'Oswald', sans-serif;
+        }
+
+    p1 {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+
+.Links {
+    color:crimson
+    }
+
+ .Links:link {
+    text-decoration: none;
+  }
+  
+ .Links:visited {
+    text-decoration: none;
+  }
+  
+  .Links:hover {
+    text-decoration: underline;
+  }
+  
+  .Links:active {
+    text-decoration: underline;
+  }
+#salto{
+    visibility: hidden;
+}
+
+.logo:hover{
+    background-color: skyblue;
+}
+
+p   {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 25px;    
+}
+
+ul  {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 25px;    
+    margin: 0px;
+}
+
+#videoDiablo{
+    height: 400px;
+    width: 660px;
+}
+
+#logoReddit{
+    height: 28px;
+    width: 28px;
+}
+
+.logo{
+    height: 30px;
+    width: 30px;
+}
+
+.logoComments{
+    height: 30px;
+    width: 120px;
+}
+
